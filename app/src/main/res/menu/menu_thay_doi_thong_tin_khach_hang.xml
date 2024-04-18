@@ -1,0 +1,19 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/action_change_password"
+        android:title="Thay đổi mật khẩu"
+        android:orderInCategory="100"
+        />
+
+    <item
+        android:id="@+id/action_change_personal_info"
+        android:title="Thay đổi thông tin cá nhân"
+        android:orderInCategory="100"
+         />
+
+    <item
+        android:id="@+id/action_logout"
+        android:title="Đăng xuất"
+        android:orderInCategory="100"
+         />
+</menu>

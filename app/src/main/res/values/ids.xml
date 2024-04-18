@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="btnNotification" type="id" />
+    <item name="tvGroupName" type="id" />
+    <item name="tvGroupLeaderName" type="id" />
+    <item name="ivGroupLeaderImage" type="id" />
+    <item name="lvGroupMembers" type="id" />
+</resources>
